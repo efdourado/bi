@@ -1,9 +1,3 @@
-# PowerBI 
-
-## Description  
-
-This repository contains Power BI projects focused on different analytics use cases.  
-
 ## Structure  
 
 - **Project Folders (`sales1/`, `sales2/`, etc.)**  
@@ -18,8 +12,3 @@ This repository contains Power BI projects focused on different analytics use ca
 
   3. **PDF Report (`salesReport.pdf`)**:  
      - Exported version of the report for easy sharing.  
-
-  4. **README.md**:  
-     - Documentation specific to each project.  
-
-## How to Use
